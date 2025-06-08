@@ -139,7 +139,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Author:** Nyambura Gachahi
 - GitHub: [@Nyambura-climate](https://github.com/nyambura-climate)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- LinkedIn: [Nyambura Gachahi](https://linkedin.com/in/nyambura-gachahi)
 - Email: gacchahi@gmail.com
 
 ---
