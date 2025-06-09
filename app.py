@@ -295,3 +295,20 @@ def add_footer():
 if __name__ == "__main__":
     main()
     add_footer()
+
+# Footer with image and styling
+st.markdown("---")
+col1, col2, col3 = st.columns([1, 2, 1])
+
+with col2:
+    st.image("Headshot.png", width=100) 
+    st.markdown(
+        """
+        <div style='text-align: center'>
+            <h4>Created by Nyambura Gachahi</h4>
+            <p>Data & Climate Scientist | Machine Learning Engineer</p>
+            <p>📧 gacchahi@gmail.com | 💼 LinkedIn | 🐙 GitHub</p>
+        </div>
+        """, 
+        unsafe_allow_html=True
+    )
