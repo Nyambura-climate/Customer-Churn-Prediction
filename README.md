@@ -1,6 +1,6 @@
 # 🎯 Customer Churn Prediction: $500K Annual Savings Opportunity
 
-> **Live Demo:** [Try it out here - https://nyambura-customer-churn-predictor.streamlit.app/] | **Video Walkthrough:** [Coming Soon]
+> **Live Demo:** [Try it out here - https://nyambura-customer-churn-predictor.streamlit.app/] | **Video Walkthrough:** [https://drive.google.com/file/d/179M-nu535Itzk5hg_iLjHu6HQFp_zA3D/view?usp=drivesdk]
 
 ## 💼 Business Challenge
 
